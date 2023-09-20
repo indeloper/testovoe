@@ -105,7 +105,7 @@ const store = () => {
             />
         </div>
 
-        <button @click="store">asdas</button>
+        <button class="mt-4" @click="store">send</button>
     </div>
 </template>
 
